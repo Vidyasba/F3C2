@@ -52,7 +52,7 @@ document.addEventListener("DOMContentLoaded", function () {
     
   // Open the index2.html page with a query parameter
   window.location.href =
-  'index2.html?userDetails=' + encodeURIComponent(JSON.stringify(userDetails));
+  'secondInd.html?userDetails=' + encodeURIComponent(JSON.stringify(userDetails));
 
     // alert("Signup successful!");
 
